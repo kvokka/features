@@ -1,0 +1,19 @@
+{
+    "id": "lumen",
+    "version": "1.0.0",
+    "name": "Lumen CLI Tool",
+    "description": "A  CLI tool that uses AI to streamline your git workflow (https://github.com/jnsahaj/lumen).",
+    "options": {
+        "version": {
+            "type": "string",
+            "description": "The version of Lumen to install (e.g., '1.0.0' or 'latest')",
+            "default": "latest"
+        }
+    },
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/rust:1": {}
+    },
+    "containerEnv": {
+        "PATH": "/usr/local/cargo/bin:${PATH}"
+    }
+}
