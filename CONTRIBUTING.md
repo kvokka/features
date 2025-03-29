@@ -1,6 +1,6 @@
-# Contributing to devcontainers-extra/features
+# Contributing to kvokka/features
 
-Thank you for considering contributing to the devcontainers-extra/features repository! We appreciate your time and effort in helping us improve this project. Below are the guidelines for contributing new features to the repository.
+Thank you for considering contributing to the kvokka/features repository! We appreciate your time and effort in helping us improve this project. Below are the guidelines for contributing new features to the repository.
 
 ## Adding a New Feature
 

@@ -4,12 +4,13 @@
 [devcontainers](https://code.visualstudio.com/docs/devcontainers/containers) and
 [GitHub Codespaces](https://github.com/features/codespaces)
 
-👀 Don't see your feature here? [🔥 Suggest a new feature! 🔥](https://github.com/devcontainers-extra/features/issues/new?template=suggest-feature.yaml) or [📄 Learn how to add one! 📄](CONTRIBUTING.md) \
-🔍 Found a bug? [🐞 Open a bug report! 🐞](https://github.com/devcontainers-extra/features/issues/new?template=feature-bug-report.yaml)
+👀 Don't see your feature here? [🔥 Suggest a new feature! 🔥](https://github.com/kvokka/features/issues/new?template=suggest-feature.yaml) or [📄 Learn how to add one! 📄](CONTRIBUTING.md) \
+🔍 Found a bug? [🐞 Open a bug report! 🐞](https://github.com/kvokka/features/issues/new?template=feature-bug-report.yaml)
 
 ## About This Fork
 
-This repository is a continuation of the [devcontainers-contrib/features](https://github.com/devcontainers-contrib/features) project, initially developed by [danielbraun89](https://github.com/danielbraun89). The fork was created to maintain and enhance the project due to inactivity in the original repository.
+This repository is a continuation of the [devcontainers-extra/features](https://github.com/devcontainers-extra/features) project. The fork was created to manage own
+features, keeping the structure and ideas from the initial fork.
 
 > [!NOTE]
 > This project is not officially associated with or endorsed by the official [Devcontainers](https://containers.dev/) project
