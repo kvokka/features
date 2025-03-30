@@ -1,0 +1,20 @@
+{
+    "id": "codegpt",
+    "version": "1.0.0",
+    "name": "codegpt (via Github Releases)",
+    "documentationURL": "http://github.com/kvokka/features/tree/main/src/codegpt",
+    "description": "CodeGPT is an open source CLI tool that generates git commit messages or provides code review summaries.",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Select the version to install.",
+            "proposals": [
+                "latest"
+            ],
+            "type": "string"
+        }
+    },
+    "installsAfter": [
+        "ghcr.io/devcontainers-extra/features/gh-release"
+    ]
+}
