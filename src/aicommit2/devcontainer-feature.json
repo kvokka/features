@@ -1,0 +1,20 @@
+{
+    "id": "aicommit2",
+    "version": "1.0.0",
+    "name": "aicommit2 (via npm)",
+    "documentationURL": "http://github.com/kvokka/features/tree/main/src/aicommit2",
+    "description": "aicommit2 is reactive CLI that generates git commit messages with Ollama, ChatGPT, Gemini, Claude, Mistral and other AI.",
+    "options": {
+        "version": {
+            "default": "latest",
+            "description": "Select the version to install.",
+            "proposals": [
+                "latest"
+            ],
+            "type": "string"
+        }
+    },
+    "dependsOn": {
+        "ghcr.io/devcontainers/features/node:1": {}
+    }
+}

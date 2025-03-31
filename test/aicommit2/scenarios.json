@@ -1,0 +1,16 @@
+{
+    "test_defaults_debian": {
+        "image": "mcr.microsoft.com/devcontainers/base:debian",
+        "features": {
+            "aicommit2": {}
+        }
+    },
+    "test_specific_version": {
+        "image": "mcr.microsoft.com/devcontainers/base:debian",
+        "features": {
+            "aicommit2": {
+                "version": "2.2.0"
+            }
+        }
+    }
+}
