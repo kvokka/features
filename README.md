@@ -27,8 +27,8 @@ of an `options` object.
 {
   "image": "mcr.microsoft.com/devcontainers/base:bookworm",
   "features": {
-    "ghcr.io/devcontainers-extra/features/deno": {},
-    "ghcr.io/devcontainers-extra/features/neovim": {}
+    "ghcr.io/kvokka/features/lumen": {},
+    "ghcr.io/kvokka/features/codegpt": {}
   }
 }
 ```
